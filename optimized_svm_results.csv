@@ -1,0 +1,11 @@
+Sample,Best Accuracy,Kernel,Nu
+S1,1.0,rbf,0.63
+S2,1.0,linear,0.33
+S3,1.0,poly,0.19
+S4,1.0,linear,0.39
+S5,0.9814814814814815,linear,0.43
+S6,1.0,poly,0.07
+S7,1.0,rbf,0.25
+S8,0.9814814814814815,linear,0.77
+S9,1.0,linear,0.15
+S10,0.9814814814814815,rbf,0.61
